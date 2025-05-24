@@ -10,6 +10,8 @@ The **SpineNet-49S** variant is a compact version of the model, suitable for res
 
 For more details, please refer to the [original paper](https://arxiv.org/abs/1912.05027).
 
+[Hugging Face Model Hub Link](https://huggingface.co/adityaroy10/SpineNet49S-Keras)
+
 ---
 
 ## Repository Contents
